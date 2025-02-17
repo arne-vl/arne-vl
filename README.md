@@ -39,17 +39,11 @@
 
 ###
 
-<h3 align="left">Links</h3>
+<h3 align="left">Dev links</h3>
 
 ###
 
 <ul>
-  <li>
-    <a href="https://arnevanlooveren.be/" target="_blank">Personal Website</a>
-  </li>
-  <li>
-    <a href="https://www.linkedin.com/in/arne-van-looveren/" target="_blank">LinkedIn</a>
-  </li>
   <li>
     <a href="https://hub.docker.com/u/arnevl" target="_blank">Docker Hub</a>
   </li>
