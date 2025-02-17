@@ -37,24 +37,6 @@
 
 ###
 
-<p align="left">My name is Arne Van Looveren. <br>Currently I am a Data Engineer at EpicData.<br>I like homelabbing and starting way too big projects in my free time where I will torture myself with.</p>
-
-###
-
-<h3 align="left">Links</h3>
-
-###
-
-<p align="left">- LinkedIn<br>- Docker Hub<br>- PyPi</p>
-
-###
-
-###
-
-<h3 align="left">Info</h3>
-
-###
-
 <p align="left">My name is Arne Van Looveren. <br>Currently I am a Data Engineer at <a href="www.epicdata.be" target="_blank">EpicData</a>.<br>I like homelabbing and starting way too big projects in my free time where I will torture myself with.</p>
 
 ###
