@@ -48,6 +48,9 @@
   <li>
     <a href="https://pypi.org/user/arnevl/" target="_blank">PyPi</a>
   </li>
+  <li>
+    <a href="https://registry.terraform.io/namespaces/arne-vl">Terraform Registry</a>
+  </li>
 </ul>
 
 ###
