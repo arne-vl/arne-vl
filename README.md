@@ -1,4 +1,4 @@
-<h2 align="left">Hi there 👋</h2>
+## Hi there 👋
 
 ###
 
@@ -30,28 +30,22 @@
 
 ###
 
-<h3 align="left">Info</h3>
+### Info
 
 ###
 
-<p align="left">My name is Arne Van Looveren. <br>Currently I am a Data Engineer at <a href="https://www.epicdata.be" target="_blank">EpicData</a>.<br>I like homelabbing and starting way too big projects in my free time where I will torture myself with.</p>
+My name is Arne Van Looveren.\
+Currently I am a Data Engineer at <a href="https://www.epicdata.be" target="_blank">EpicData</a>.\
+I like homelabbing and starting way too big projects in my free time, where I inevitably end up torturing myself.
 
 ###
 
-<h3 align="left">Dev links</h3>
+### Dev links
 
 ###
 
-<ul>
-  <li>
-    <a href="https://hub.docker.com/u/arnevl" target="_blank">Docker Hub</a>
-  </li>
-  <li>
-    <a href="https://pypi.org/user/arnevl/" target="_blank">PyPi</a>
-  </li>
-  <li>
-    <a href="https://registry.terraform.io/namespaces/arne-vl">Terraform Registry</a>
-  </li>
-</ul>
+- [Docker Hub](https://hub.docker.com/u/arnevl)
+- [PyPi](https://pypi.org/user/arnevl/)
+- [Terraform Registry](https://registry.terraform.io/namespaces/arne-vl)
 
 ###
