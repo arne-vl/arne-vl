@@ -42,7 +42,6 @@ I like homelabbing and starting way too big projects in my free time, where I in
 
 ###
 
-- [PyPi](https://pypi.org/user/arnevl/)
 - [Terraform Registry](https://registry.terraform.io/namespaces/arne-vl)
 
 ###
