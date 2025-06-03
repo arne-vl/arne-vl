@@ -27,3 +27,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arne-vl&locale=en&hide_title=true&layout=compact&card_width=500&langs_count=5&theme=dracula&hide_border=false" alt="languages graph" style="height:180px;"/>
 </p>
+
+---
+
+<h2 align="center">⚠️ WARNING ⚠️</h2>
+<p align="center">
+  My projects are like experimental rockets: they might reach the moon, or they might just provide an impressive light show on launch. Proceed with curiosity (and maybe a fire extinguisher)! 🔥
+</p>
