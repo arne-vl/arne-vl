@@ -1,33 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
-### Info
+<p align="center">My name is <b>Arne Van Looveren</b>.</p>
+<p align="center">Currently, I am a <b>Data Engineer</b> at <a href="https://www.epicdata.be" target="_blank" style="color:#89DCEB; text-decoration:none;">EpicData</a>.</p>
 
-###
+---
 
-My name is Arne Van Looveren.\
-Currently I am a Data Engineer at <a href="https://www.epicdata.be" target="_blank">EpicData</a>.
+<h2 align="center">About Me</h2>
+<p align="center">I enjoy building things that make life easier—especially for developers. Whether it’s automating workflows, creating my own dev tools, or building apps that are hosted in my homelab, I love exploring how systems work and how they can work better.</p>
 
-I like building things that make life easier — especially for developers. Whether it’s automating workflows, creating my own dev tools, or building apps that are hosted in my homelab, I enjoy exploring how systems work and how they can work better.
+---
 
-###
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="30" alt="neovim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />  
-</div>
+<h2 align="center">My Toolkit</h2>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" style="margin: 0 8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="40" alt="neovim logo" style="margin: 0 8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" style="margin: 0 8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" style="margin: 0 8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo" style="margin: 0 8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" style="margin: 0 8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" style="margin: 0 8px;"/>
+</p>
 
-###
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=arne-vl&locale=en&hide_title=false&layout=compact&card_width=600&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-
-###
+<h2 align="center">My Top Languages</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arne-vl&locale=en&hide_title=true&layout=compact&card_width=500&langs_count=5&theme=dracula&hide_border=false" alt="languages graph" style="height:180px;"/>
+</p>
