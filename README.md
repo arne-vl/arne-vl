@@ -23,9 +23,9 @@
 
 ---
 
-<h2 align="center">My Top Languages</h2>
+<h2 align="center">Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arne-vl&locale=en&hide_title=true&layout=compact&card_width=500&langs_count=5&theme=dracula&hide_border=false" alt="languages graph" style="height:180px;"/>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=arne-vl&background=1E1E2E&currStreakNum=CDD6F4&sideNums=CDD6F4&fire=FAB387&ring=FAB387&currStreakLabel=FAB387&sideLabels=BAC2DE&excludeDaysLabel=A6ADC8&dates=A6ADC8&border=89B4FA&stroke=89B4FA" alt="GitHub Streak" /></a>
 </p>
 
 ---
