@@ -26,7 +26,10 @@
 
 <h2 align="center">Stats</h2>
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=arne-vl&background=1E1E2E&currStreakNum=CDD6F4&sideNums=CDD6F4&fire=FAB387&ring=FAB387&currStreakLabel=FAB387&sideLabels=BAC2DE&excludeDaysLabel=A6ADC8&dates=A6ADC8&border=89B4FA&stroke=89B4FA" alt="GitHub Streak" /></a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arne-vl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=arne-vl&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </p>
 
 ---
