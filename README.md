@@ -26,15 +26,15 @@
 
 <h2 align="center">Stats</h2>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arne-vl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arne-vl&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=arne-vl&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arne-vl&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
 
 <h2 align="center">⚠️ WARNING ⚠️</h2>
 <p align="center">
-  My projects are like experimental rockets: they might reach the moon, or they might just provide an impressive light show on launch. Proceed with curiosity (and maybe a fire extinguisher)! 🔥
+  My projects are like experimental rockets: they might reach the moon, or they might just provide an impressive light show on launch. Proceed with caution (and maybe a fire extinguisher)! 🔥
 </p>
