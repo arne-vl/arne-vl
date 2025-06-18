@@ -24,16 +24,6 @@
 
 ---
 
-<h2 align="center">Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arne-vl&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arne-vl&theme=tokyonight&hide_border=false" />
-</p>
-
----
-
 <h2 align="center">⚠️ WARNING ⚠️</h2>
 <p align="center">
   My projects are like experimental rockets: they might reach the moon, or they might just provide an impressive light show on launch. Proceed with caution (and maybe a fire extinguisher)! 🔥
