@@ -21,10 +21,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" style="margin: 0 8px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" style="margin: 0 8px;"/>
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arne-vl&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="arne-vl's GitHub Stats" />
+</p>
 
 ---
 
-<h2 align="center">⚠️ WARNING ⚠️</h2>
+<h2 align="center">⚒️ Currently building ⚒️</h2>
 <p align="center">
-  My projects are like experimental rockets: they might reach the moon, or they might just provide an impressive light show on launch. Proceed with caution (and maybe a fire extinguisher)! 🔥
+  Developing <a href="https://github.com/arne-vl/taskr" target="_blank" style="color:#89DCEB; text-decoration:none;">taskr</a> + its toolset (<a href="https://github.com/arne-vl/tree-sitter-taskr" target="_blank" style="color:#89DCEB; text-decoration:none;">tree-sitter highlighting</a>).
 </p>
