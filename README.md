@@ -29,5 +29,5 @@
 
 <h2 align="center">⚒️ Currently building ⚒️</h2>
 <p align="center">
-  Developing <a href="https://github.com/arne-vl/taskr" target="_blank" style="color:#89DCEB; text-decoration:none;">taskr</a> + its toolset (<a href="https://github.com/arne-vl/tree-sitter-taskr" target="_blank" style="color:#89DCEB; text-decoration:none;">tree-sitter for taskr</a>).
+  <a href="https://github.com/arne-vl/taskr" target="_blank" style="color:#89DCEB; text-decoration:none;">taskr</a> + its toolset (<a href="https://github.com/arne-vl/tree-sitter-taskr" target="_blank" style="color:#89DCEB; text-decoration:none;">tree-sitter for taskr</a>).
 </p>
