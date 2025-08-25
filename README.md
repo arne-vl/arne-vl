@@ -6,7 +6,7 @@
 ---
 
 <h2 align="center">About Me</h2>
-<p align="center">I enjoy building things that make life easier—especially for developers. Whether it’s automating workflows, creating my own dev tools, or building apps that are hosted in my homelab, I love exploring how systems work and how they can work better.</p>
+<p align="center">I enjoy building things that make life easier, especially for developers. Whether it’s automating workflows, creating my own dev tools, or building apps that are hosted in my homelab, I love exploring how systems work and how they can work better.</p>
 
 ---
 
