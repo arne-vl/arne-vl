@@ -7,9 +7,13 @@
 [![Website](https://img.shields.io/badge/website-vanlooveren.dev-blue?logo=hugo&logoColor=white)](https://vanlooveren.dev)
 [![LinkedIn](https://img.shields.io/badge/linkedin-Arne_Van_Looveren-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/arne-van-looveren)
 
-[![Codeberg](https://img.shields.io/badge/codeberg-arnevl-blue?logo=codeberg&logoColor=white)](https://codeberg.org/arnevl)
-[![GitHub](https://img.shields.io/badge/github-arne--vl-blue?logo=github&logoColor=white)](https://github.com/arne-vl)
-[![Terraform Registry](https://img.shields.io/badge/terraform_registry-arne--vl-blue?logo=terraform&logoColor=white)](https://registry.terraform.io/namespaces/arne-vl)
+[![Codeberg](https://img.shields.io/badge/codeberg-nietarne-blue?logo=codeberg&logoColor=white)](https://codeberg.org/nietarne)
+[![GitHub](https://img.shields.io/badge/github-nietarne-blue?logo=github&logoColor=white)](https://github.com/nietarne)
+
+
+[![Terraform Registry](https://img.shields.io/badge/terraform_registry-nietarne-blue?logo=terraform&logoColor=white)](https://registry.terraform.io/namespaces/nietarne)
+[![PyPI](https://img.shields.io/badge/pypi-nietarne-blue?logo=pypi&logoColor=white)](https://pypi.org/user/nietarne/)
+[![DockerHub](https://img.shields.io/badge/docker_hub-nietarne-blue?logo=docker&logoColor=white)](https://hub.docker.com/u/nietarne)
 
 
 
@@ -20,24 +24,29 @@
 - [myos](https://codeberg.org/MyOS)
 
 ### General
-- [van looveren dev pacman repo](https://codeberg.org/arnevl/vanlooveren-dev-repo)
-- [terraform azurerm caf naming](https://codeberg.org/arnevl/terraform-azurerm-caf-naming)
-- [avl.nvim](https://codeberg.org/arnevl/avl.nvim)
-- [scripts](https://codeberg.org/arnevl/scripts)
-- [dotfiles](https://codeberg.org/arnevl/dotfiles)
+- [van looveren dev pacman repo](https://codeberg.org/nietarne/pkgs)
+- [avl.nvim](https://codeberg.org/nietarne/avl.nvim)
+- [scripts](https://codeberg.org/nietarne/scripts)
+- [renderix](https://codeberg.org/nietarne/renderix)
+- [containers](https://codeberg.org/nietarne/containers)
+- [dotfiles](https://codeberg.org/nietarne/dotfiles)
+
+#### Terraform
+- [terraform azurerm resource prefixes](https://codeberg.org/nietarne/terraform-azurerm-resource-prefixes)
+- [terraform azurerm caf naming](https://codeberg.org/nietarne/terraform-azurerm-caf-naming)
 
 ### Extra
 <details>
 <summary>Repo templates</summary>
 <ul>
-  <li><a href="https://codeberg.org/arnevl/general-template">general template</a></li>
-  <li><a href="https://codeberg.org/arnevl/terraform-module-template">terraform module template</a></li>
+  <li><a href="https://codeberg.org/nietarne/general-template">general template</a></li>
+  <li><a href="https://codeberg.org/nietarne/terraform-module-template">terraform module template</a></li>
 </ul>
 </details>
 
 <details>
 <summary>Archive</summary>
 <ul>
-  <li><a href="https://codeberg.org/arnevl/kpt">kpt</a></li>
+  <li><a href="https://codeberg.org/nietarne/kpt">kpt</a></li>
 </ul>
 </details>
